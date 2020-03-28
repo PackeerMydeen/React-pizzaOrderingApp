@@ -1,0 +1,17 @@
+.category-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.icons-wrapper {
+  display: flex;
+  margin-left: 525px;
+}
+.icons {
+  margin-left: 13px;
+}
+
+.agetype-wrapper {
+  margin-left: 15px;
+}
